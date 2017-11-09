@@ -1,0 +1,152 @@
+{
+ "kind": "civicinfo#representativeInfoResponse",
+ "normalizedInput": {
+  "line1": "4700 Fossil Drive",
+  "city": "Fort Worth",
+  "state": "TX",
+  "zip": "76117"
+ },
+ "divisions": {
+  "ocd-division/country:us/state:tx": {
+   "name": "Texas",
+   "officeIndices": [
+    0
+   ]
+  },
+  "ocd-division/country:us/state:tx/sldu:9": {
+   "name": "Texas State Senate district 9",
+   "officeIndices": [
+    1
+   ]
+  }
+ },
+ "offices": [
+  {
+   "name": "United States Senate",
+   "divisionId": "ocd-division/country:us/state:tx",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    0,
+    1
+   ]
+  },
+  {
+   "name": "TX State Senate District 9",
+   "divisionId": "ocd-division/country:us/state:tx/sldu:9",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    2
+   ]
+  }
+ ],
+ "officials": [
+  {
+   "name": "John Cornyn",
+   "address": [
+    {
+     "line1": "517 Hart Senate Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 224-2934"
+   ],
+   "urls": [
+    "http://www.cornyn.senate.gov/public/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/C/C001056.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "Sen.JohnCornyn"
+    },
+    {
+     "type": "Twitter",
+     "id": "JohnCornyn"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenJohnCornyn"
+    }
+   ]
+  },
+  {
+   "name": "Ted Cruz",
+   "address": [
+    {
+     "line1": "404 Russell Senate Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 224-5922"
+   ],
+   "urls": [
+    "http://www.cruz.senate.gov/"
+   ],
+   "photoUrl": "http://www.cruz.senate.gov/files/images/OfficialPortrait.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "SenatorTedCruz"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenTedCruz"
+    },
+    {
+     "type": "YouTube",
+     "id": "TedCruzforSenate"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenTedCruz"
+    }
+   ]
+  },
+  {
+   "name": "Kelly Hancock",
+   "address": [
+    {
+     "line1": "PO BOX 12068",
+     "city": "Austin",
+     "state": "TX",
+     "zip": "78711"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(512) 463-0109"
+   ],
+   "urls": [
+    "http://www.senate.texas.gov/member.php?d=9"
+   ],
+   "photoUrl": "http://www.senate.texas.gov/members/d09/img/action.jpg",
+   "emails": [
+    "kelly.hancock@senate.state.tx.us"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "Khancock4TX"
+    }
+   ]
+  }
+ ]
+}
